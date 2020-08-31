@@ -1,0 +1,6 @@
+Final loss:	 0.00013295532687897593
+L2 error:	 0.6646989915011768
+Lambda 1:	 1.0
+Lambda 2:	 -0.0021189389162594896
+Lambda 3:	 1.0
+Number of colocation points:	 5151

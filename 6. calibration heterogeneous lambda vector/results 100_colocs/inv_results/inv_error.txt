@@ -1,0 +1,5 @@
+sw error:	 0.05926951460747777
+ϕ error:	 0.334716472707355
+K error:	 0.334716472707355
+Adam epochs:	 100
+Best results at epoch 0

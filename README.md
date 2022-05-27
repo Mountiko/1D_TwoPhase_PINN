@@ -1,5 +1,5 @@
 # 1D_TwoPhase_PINN
-This repository contains the work done in the frame of my master's thesis in cooperation with TOTAL.
+A Physics Informed Neural Network that predicts the a two phase flow in porous media.
 
 Prerequisites:
   - [Julia version 1.3.1](https://julialang.org/)
